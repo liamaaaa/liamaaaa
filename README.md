@@ -26,10 +26,4 @@ When I'm not coding, you'll find me lost in music—either listening, performing
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/liamaaa/" target="_blank">Lia Mathews</a></p>
-<p>Email: liamathews08@gmail.com</p>
-  
-<!---
-liamaaaa/liamaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/liamaaa/" target="_blank">Lia Mathews</a> Email: liamathews08@gmail.com</p>
