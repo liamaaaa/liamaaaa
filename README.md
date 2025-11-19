@@ -2,7 +2,7 @@
 
 Hey! I’m Lia, an inquisitive Computer Science and Cognitive Science student at the University of Georgia. I aim to build intelligent, intuitive applications that make complex tasks accessible and engaging for everyone! Whether through AI and data science implementations to automate and simplify, or through thoughtful software design that captivates users, I hope to develop systems that most closely mirror human cognition and desires.
 
-When I'm not coding, you'll find me lost in music—either listening, performing, or designing tools to understand the industry better!
+When I'm not coding, you'll find me lost in music — either listening, performing, or designing tools to understand the industry better!
 
 ## My Skills
 
